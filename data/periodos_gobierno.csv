@@ -1,0 +1,9 @@
+party,rol,inicio,fin,descripcion
+PP,gobierno,2016-01-01,2018-06-01,"Gobierno Rajoy (en funciones hasta la investidura del 29-10-2016). Termina con la moción de censura aprobada el 1-6-2018"
+PP,oposicion,2018-06-02,,"En la oposición desde la toma de posesión de Pedro Sánchez (2-6-2018)"
+PSOE,oposicion,2016-01-01,2018-06-01,"En la oposición durante el Gobierno Rajoy"
+PSOE,gobierno,2018-06-02,,"Gobiernos Sánchez I (2018), II (coalición, 2020) y III (coalición, 2023); incluye los periodos en funciones"
+Podemos-UP-Sumar,oposicion,2016-01-01,2020-01-12,"En la oposición, incluido el apoyo externo al Gobierno Sánchez I y la investidura de enero de 2020"
+Podemos-UP-Sumar,gobierno,2020-01-13,,"Ministros de Unidas Podemos desde el 13-1-2020 (Gobierno de coalición) y de Sumar desde el 21-11-2023"
+VOX,oposicion,2016-01-01,,"Nunca en el Gobierno central"
+Cs,oposicion,2016-01-01,,"Nunca en el Gobierno central (apoyo parlamentario a Rajoy en la legislatura XII, sin ministros)"
