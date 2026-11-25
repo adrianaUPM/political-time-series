@@ -1,4 +1,0 @@
-﻿*.parquet
-!data/intervenciones_gobierno.parquet
-.ipynb_checkpoints/
-__pycache__/
